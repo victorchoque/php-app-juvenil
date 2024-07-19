@@ -16,7 +16,7 @@ $crud->setGlobalFields(function($f){
         ->setOptions( DB::listaSeleccion('proveedor','id_proveedor','empresa','ORDER BY empresa ASC')  );
         ;
     $f->nombreproducto("Nombre Producto");
-    $f->descripcion("Descripcion");
+    $f->caracteristicas->setType(CRUD_types::JSON)->setName("Caracteristicas");
     $f->estado("estado");
     $f->precio("precio");
     $f->tipo("Tipo");

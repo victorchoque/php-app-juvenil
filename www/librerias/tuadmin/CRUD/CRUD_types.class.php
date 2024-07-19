@@ -5,6 +5,8 @@ class CRUD_types{
     const NUMBER = "number";
     const DATE = "DATE";
     const TEXTAREA = "textarea";
+    const JSON = "json";
+    const JSON_SCHEMA = "json_schema";
     const SELECT = "select";
     const CHECKBOX = "checkbox";
     const RADIO = "radio";

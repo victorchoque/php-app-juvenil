@@ -4,6 +4,7 @@ class _CRUD_field{
     public $name;
     //public $title;
     public $type = CRUD_types::TEXT; // text,textarea,select,checkbox,radio
+    public $json_config = null; // Si tiene alguna configuracion para el tipo de dato
     public $default_value;
     public $default_value_callback;
     public $visible = true;
@@ -16,8 +17,9 @@ class _CRUD_field{
         $this->name= $name;
         return $this;
     }
-    public function setType($type){
-        $this->type= $type;
+    public function setType($type,$json_config=null){
+        $this->type= $type;        
+        $this->json_config = $json_config;
         return $this;
     }
     public function toDate($default_value=null){

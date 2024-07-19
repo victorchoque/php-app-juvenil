@@ -1,208 +1,43 @@
 
-<div class="ps-banner" style="overflow: visible;">
-            <div class="rev_slider fullscreenbanner revslider-initialised tp-simpleresponsive" id="home-banner"
-                style="margin-top: 0px; margin-bottom: 0px; height: 750px;" data-slideactive="rs-2972">
-                <ul class="tp-revslider-mainul"
-                    style="visibility: visible; display: block; overflow: hidden; width: 1291px; height: 100%; max-height: none; left: 0px;">
-                    <li class="ps-banner tp-revslider-slidesli active-revslide" data-hideafterloop="0"
-                        data-hideslideonmobile="off" data-index="rs-2972" data-rotate="0" data-slotamount="default"
-                        data-transition="random"
-                        style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
-                        <div class="slotholder"
-                            style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; backface-visibility: hidden; transform: translate3d(0px, -45.25px, 0px); visibility: inherit; opacity: 1;">
-                            <!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img alt="" class="rev-slidebg defaultimg" data-bgfit="cover" data-bgparallax="5" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/slider/3.jpg">-->
-                            <div class="tp-bgimg defaultimg " data-bgcolor="undefined"
-                                style="background-repeat: no-repeat; background-image: url(&quot;images/slider/3.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;"
-                                src="images/slider/3.jpg"></div>
-                        </div>
-                        <div class="tp-parallax-wrap"
-                            style="position: absolute; display: block; visibility: visible; left: 106px; top: 184px; z-index: 1;">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap"
-                                    style="position: absolute; display: block; overflow: visible;">
-                                    <div class="tp-caption ps-banner__header"
-                                        data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on" data-type="text"
-                                        data-voffset="[&#39;-150&#39;,&#39;-120&#39;,&#39;-150&#39;,&#39;-170&#39;]"
-                                        data-width="[&#39;none&#39;,&#39;none&#39;,&#39;none&#39;,&#39;400&#39;]"
-                                        data-x="left"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer-1"
-                                        style="visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px 0px 10px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
-                                        <p>March 2002<br>
-                                            Nike SB Dunk Low Pro</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="tp-parallax-wrap"
-                            style="position: absolute; display: block; visibility: visible; left: 106px; top: 261px; z-index: 1;">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap"
-                                    style="position: absolute; display: block; overflow: visible;">
-                                    <div class="tp-caption ps-banner__title"
-                                        data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;-60&#39;,&#39;-40&#39;,&#39;-50&#39;,&#39;-70&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer21"
-                                        style="visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
-                                        <p class="text-uppercase">SUBA</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+        <div class="ps-banner">
+<div class="rev_slider fullscreenbanner" id="home-banner">
+<ul>
+	<li class="ps-banner" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-2972" data-rotate="0" data-slotamount="default" data-transition="random"><img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="5" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="assets/skin/shoes/images/slider/3.jpg" />
+	<div class="tp-caption ps-banner__header" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-type="text" data-voffset="['-150','-120','-150','-170']" data-width="['none','none','none','400']" data-x="left" data-y="['middle','middle','middle','middle']" id="layer-1">
+	<p>JULIO 2024<br />
+	Nike SB Dunk Low Pro</p>
+	</div>
 
-                        <div class="tp-parallax-wrap"
-                            style="position: absolute; display: block; visibility: visible; left: 106px; top: 371px; z-index: 1;">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap"
-                                    style="position: absolute; display: block; overflow: visible;">
-                                    <div class="tp-caption ps-banner__description"
-                                        data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;30&#39;,&#39;50&#39;,&#39;50&#39;,&#39;50&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer211"
-                                        style="visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
-                                        <p>Supa wanted something that was going to rep his East Coast<br>
-                                            roots and, more specifically, his hometown of<br>
-                                            New York City in a big way.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-parallax-wrap"
-                            style="position: absolute; display: block; visibility: visible; left: 106px; top: 467px; z-index: 1;">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap"
-                                    style="position: absolute; display: block; overflow: visible;"><a
-                                        class="tp-caption ps-btn"
-                                        data-frames="[{&quot;delay&quot;:1500,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;120&#39;,&#39;140&#39;,&#39;200&#39;,&#39;200&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        href="#" id="layer31"
-                                        style="visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 25px; border-width: 0px; margin: 0px; padding: 15px 30px; letter-spacing: 1px; font-weight: 300; font-size: 18px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">Purchase
-                                        Now</a></div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="ps-banner ps-banner--white tp-revslider-slidesli" data-hideafterloop="0"
-                        data-hideslideonmobile="off" data-index="rs-100" data-rotate="0" data-slotamount="default"
-                        data-transition="random" style="width: 100%; height: 100%; overflow: hidden;">
-                        <div class="slotholder"
-                            style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; backface-visibility: hidden; transform: translate3d(0px, -45.25px, 0px);">
-                            <!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img alt="" class="rev-slidebg defaultimg" data-bgfit="cover" data-bgparallax="5" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/slider/2.jpg">-->
-                            <div class="tp-bgimg defaultimg " data-bgcolor="undefined"
-                                style="background-repeat: no-repeat; background-image: url(&quot;images/slider/2.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0;"
-                                src="images/slider/2.jpg"></div>
-                        </div>
-                        <div class="tp-parallax-wrap " style="position:absolute;display:block;;visibility:hidden">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap" style="position:absolute;display:block;;">
-                                    <div class="tp-caption ps-banner__header"
-                                        data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on" data-type="text"
-                                        data-voffset="[&#39;-150&#39;,&#39;-120&#39;,&#39;-150&#39;,&#39;-170&#39;]"
-                                        data-width="[&#39;none&#39;,&#39;none&#39;,&#39;none&#39;,&#39;400&#39;]"
-                                        data-x="left"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer20" style="visibility: hidden;">
-                                        <p>BEST ITEM<br>
-                                            THIS SUMMER</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+	<div class="tp-caption ps-banner__title" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['-60','-40','-50','-70']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" id="layer21">
+	<p class="text-uppercase">SUBA</p>
+	</div>
 
-                        <div class="tp-parallax-wrap " style="position:absolute;display:block;;visibility:hidden">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap" style="position:absolute;display:block;;">
-                                    <div class="tp-caption ps-banner__title"
-                                        data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;-60&#39;,&#39;-40&#39;,&#39;-50&#39;,&#39;-70&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer339" style="visibility: hidden;">
-                                        <p class="text-uppercase">Recovery</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+	<div class="tp-caption ps-banner__description" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['30','50','50','50']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" id="layer211">
+	<p>Supa quería algo que representara su costa este<br />
+  raíces y, más concretamente, su ciudad natal de<br />
+  La ciudad de El Alto a lo grande.</p>
+	</div>
+	<a class="tp-caption ps-btn" data-frames="[{&quot;delay&quot;:1500,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['120','140','200','200']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" href="#" id="layer31">Purchase Now</a></li>
+	<li class="ps-banner ps-banner--white" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-100" data-rotate="0" data-slotamount="default" data-transition="random"><img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="5" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="assets/skin/shoes/images/slider/2.jpg" />
+	<div class="tp-caption ps-banner__header" data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-type="text" data-voffset="['-150','-120','-150','-170']" data-width="['none','none','none','400']" data-x="left" data-y="['middle','middle','middle','middle']" id="layer20">
+	<p>MEJOR ARTÍCULO<br />
+	ESTE INVIERNO</p>
+	</div>
 
-                        <div class="tp-parallax-wrap " style="position:absolute;display:block;;visibility:hidden">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap" style="position:absolute;display:block;;">
-                                    <div class="tp-caption ps-banner__description"
-                                        data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;30&#39;,&#39;50&#39;,&#39;50&#39;,&#39;50&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        id="layer2-14" style="visibility: hidden;">
-                                        <p>Supa wanted something that was going to rep his East Coast<br>
-                                            roots and, more specifically, his hometown of<br>
-                                            New York City in a big way.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-parallax-wrap " style="position:absolute;display:block;;visibility:hidden">
-                            <div class="tp-loop-wrap" style="position:absolute;display:block;;">
-                                <div class="tp-mask-wrap" style="position:absolute;display:block;;"><a
-                                        class="tp-caption ps-btn"
-                                        data-frames="[{&quot;delay&quot;:1500,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                        data-hoffset="[&#39;-60&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]"
-                                        data-responsive_offset="on"
-                                        data-textalign="[&#39;center&#39;,&#39;center&#39;,&#39;center&#39;,&#39;center&#39;]"
-                                        data-type="text"
-                                        data-voffset="[&#39;120&#39;,&#39;140&#39;,&#39;200&#39;,&#39;200&#39;]"
-                                        data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]"
-                                        data-y="[&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;,&#39;middle&#39;]"
-                                        href="#" id="layer364"
-                                        style="visibility: hidden;">Purchase Now</a></div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-                <div class="tp-loader off" style="display: none;">
-                    <div class="dot1"></div>
-                    <div class="dot2"></div>
-                    <div class="bounce1"></div>
-                    <div class="bounce2"></div>
-                    <div class="bounce3"></div>
-                </div>
-                <div class="tp-bannertimer" style="visibility: hidden; width: 0%;"></div>
-                <div class="tp-bullets hermes horizontal nav-pos-hor-center nav-pos-ver-bottom nav-dir-horizontal"
-                    style="width: 37px; height: 16px; top: 100%; transform: matrix(1, 0, 0, 1, -18, -36); left: 50%;">
-                    <div class="tp-bullet selected" style="left: 0px; top: 0px;"></div>
-                    <div class="tp-bullet" style="left: 21px; top: 0px;"></div>
-                </div>
-            </div>
-        </div>
+	<div class="tp-caption ps-banner__title" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['-60','-40','-50','-70']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" id="layer339">
+	<p class="text-uppercase">Recovery</p>
+	</div>
+
+	<div class="tp-caption ps-banner__description" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['30','50','50','50']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" id="layer2-14">
+	<p>Supa quería algo que representara su costa este<br />
+  raíces y, más concretamente, su ciudad natal de<br />
+  La ciudad de El Alto a lo grande.</p>
+	</div>
+	<a class="tp-caption ps-btn" data-frames="[{&quot;delay&quot;:1500,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:50px;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;x:50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-hoffset="['-60','15','15','15']" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="['120','140','200','200']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" href="#" id="layer364">Purchase Now</a></li>
+</ul>
+</div>
+</div>
 
         <div class="ps-section--features-product ps-section masonry-root pt-100 pb-100">
             <div class="ps-container">
@@ -2196,8 +2031,8 @@
             </div>
         </div>
 
-        <div class="ps-home-testimonial bg--parallax pb-80" data-background="images/background/parallax.jpg"
-            style="background: url(&quot;images/background/parallax.jpg&quot;);">
+        <div class="ps-home-testimonial bg--parallax pb-80" data-background="assets/skin/shoes/images/background/parallax.jpg"
+            style="background: url(&quot;assets/skin/shoes/images/background/parallax.jpg&quot;);">
             <div class="container">
                 <div class="owl-slider owl-carousel owl-theme owl-loaded" data-owl-animate-in="fadeIn"
                     data-owl-animate-out="fadeOut" data-owl-auto="true" data-owl-dots="true" data-owl-duration="1000"
@@ -2740,131 +2575,4 @@
             </div>
         </div> -->
 
-        <div class="ps-footer bg--cover" data-background="images/background/parallax.jpg"
-            style="background: url(&quot;images/background/parallax.jpg&quot;);">
-            <div class="ps-footer__content">
-                <div class="ps-container">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
-                            <aside class="ps-widget--footer ps-widget--info">
-                                <header><a class="ps-logo" href=""><img
-                                            alt="" src="./assets/skin/shoes/logo-white.png"></a>
-
-                                    <h3 class="ps-widget__title">Address Office 1</h3>
-                                </header>
-
-                                <footer>
-                                    <p><strong>460 West 34th Street, 15th floor, New York</strong></p>
-
-                                    <p>Email: <a href="mailto:support@store.com">support@store.com</a></p>
-
-                                    <p>Phone: +323 32434 5334</p>
-
-                                    <p>Fax: ++323 32434 5333</p>
-                                </footer>
-                            </aside>
-                        </div>
-
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
-                            <aside class="ps-widget--footer ps-widget--info second">
-                                <header>
-                                    <h3 class="ps-widget__title">Address Office 2</h3>
-                                </header>
-
-                                <footer>
-                                    <p><strong>PO Box 16122 Collins Victoria 3000 Australia</strong></p>
-
-                                    <p>Email: <a href="mailto:support@store.com">support@store.com</a></p>
-
-                                    <p>Phone: +323 32434 5334</p>
-
-                                    <p>Fax: ++323 32434 5333</p>
-                                </footer>
-                            </aside>
-                        </div>
-
-                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 ">
-                            <aside class="ps-widget--footer ps-widget--link">
-                                <header>
-                                    <h3 class="ps-widget__title">Find Our store</h3>
-                                </header>
-
-                                <footer>
-                                    <ul class="ps-list--link">
-                                        <li><a href="#">Coupon Code</a>
-                                        </li>
-                                        <li><a href="#">SignUp For
-                                                Email</a></li>
-                                        <li><a href="#">Site Feedback</a>
-                                        </li>
-                                        <li><a href="#">Careers</a></li>
-                                    </ul>
-                                </footer>
-                            </aside>
-                        </div>
-
-                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 ">
-                            <aside class="ps-widget--footer ps-widget--link">
-                                <header>
-                                    <h3 class="ps-widget__title">Get Help</h3>
-                                </header>
-
-                                <footer>
-                                    <ul class="ps-list--line">
-                                        <li><a href="#">Order Status</a>
-                                        </li>
-                                        <li><a href="#">Shipping and
-                                                Delivery</a></li>
-                                        <li><a href="#">Returns</a></li>
-                                        <li><a href="#">Payment
-                                                Options</a></li>
-                                        <li><a href="#">Contact Us</a>
-                                        </li>
-                                    </ul>
-                                </footer>
-                            </aside>
-                        </div>
-
-                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 ">
-                            <aside class="ps-widget--footer ps-widget--link">
-                                <header>
-                                    <h3 class="ps-widget__title">Products</h3>
-                                </header>
-
-                                <footer>
-                                    <ul class="ps-list--line">
-                                        <li><a href="#">Shoes</a></li>
-                                        <li><a href="#">Clothing</a></li>
-                                        <li><a href="#">Accessries</a>
-                                        </li>
-                                        <li><a href="#">Football
-                                                Boots</a></li>
-                                    </ul>
-                                </footer>
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ps-footer__copyright">
-                <div class="ps-container">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
-                            <p>© <a href="#">NOUTHEMES</a>, Inc. All
-                                rights Resevered. Design by <a href="#">
-                                    Alena Studio</a></p>
-                        </div>
-
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
-                            <ul class="ps-social">
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                                <li></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        

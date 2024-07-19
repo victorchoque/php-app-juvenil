@@ -20,7 +20,7 @@ $crud->setGlobalFields(function($f){
     //$f->direccion("Direccion");    
     //$f->logo->setType(CRUD_types::IMAGE);
     $f->titulo("Titulo o Nombre");
-    $f->plantilla_caracteristicas->setName("Caracteristicas")->setType(CRUD_types::TEXTAREA);
+    $f->plantilla_caracteristicas->setName("Caracteristicas")->setType(CRUD_types::JSON_SCHEMA);
     $f->html_card("Plantilla Card en Catalogo");
     $f->html_body("Plantilla Html en Producto ");        
 });
