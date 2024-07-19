@@ -63,13 +63,13 @@ $crud->canUpdate()
 ;
 $crud->canList()
     //->setFields(["descripcion"])
-    
+    ->setCustomButton("+Agregar Productos","productos.php?id_categoria={id}")    
     ->setData(function(){
         $stmt = DB::query("SELECT * FROM categorias");
         $data = $stmt->fetchAll();
-        foreach($data as & $row){
-            $row["logo"] = "<img src='".URL_BASE ."/imagenes/". $row["logo"]."' style='max-width:60px; max-height:60px' />";
-        }
+        // foreach($data as & $row){
+        //     $row["logo"] = "<img src='".URL_BASE ."/imagenes/". $row["logo"]."' style='max-width:60px; max-height:60px' />";
+        // }
         return $data;
         
     });

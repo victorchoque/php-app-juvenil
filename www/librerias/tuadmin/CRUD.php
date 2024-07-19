@@ -139,6 +139,11 @@ class CRUD{
                     $CRUD = $this;
                     $ACTION = $this->opts["custom_actions"]["create"];
                     //$ACTION->render();
+                    if(is_callable($ACTION->callback_data)){
+                        
+                        $data = call_user_func_array($ACTION->callback_data,[null]);
+                                                
+                    }
                     if (isset($_POST) && !empty($_POST)) {
                         $ERROR=true;
                         if(is_callable($ACTION->callback_upload)){                        
@@ -277,7 +282,7 @@ HTML;
     public function renderButton($actionName,array $row=array()){
         $external_args = array();
         $queryUrl = array("_ACTION" =>$actionName);
-        foreach($this->persist_get as $k){
+        foreach($this->persist_get as $k){            
             if(isset($_GET[$k])) $queryUrl[$k] = $_GET[$k];
         }
         $queryUrl = array_merge($queryUrl,$external_args);

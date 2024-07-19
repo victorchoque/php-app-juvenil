@@ -9,6 +9,7 @@ require __DIR__ .'/privado.php';
 include_once __DIR__ .'/../vistas/header.tpl.php';
 
 $crud= new CRUD("🗺 Producto","producto","id");
+$crud->setPersistGet('id_categoria');
 $crud->setGlobalFields(function($f){
     $f->id->setVisible(false);
     $f->id_proveedor
@@ -16,7 +17,15 @@ $crud->setGlobalFields(function($f){
         ->setOptions( DB::listaSeleccion('proveedor','id_proveedor','empresa','ORDER BY empresa ASC')  );
         ;
     $f->nombreproducto("Nombre Producto");
-    $f->caracteristicas->setType(CRUD_types::JSON)->setName("Caracteristicas");
+    if(isset($_GET["id_categoria"])){
+        
+            $categoria = DB::obtenerQuery("SELECT * FROM categorias WHERE id=:id",['id'=>$_GET["id_categoria"]]);        
+        $f->caracteristicas->setType(CRUD_types::JSON,$categoria["plantilla_caracteristicas"])->setName("Caracteristicas");
+        $f->id_categorias->setVisible(false)->setDefaultData($_GET["id_categoria"]);
+    }else{
+        $f->caracteristicas->setType(CRUD_types::JSON)->setName("Caracteristicas");
+    }
+    
     $f->estado("estado");
     $f->precio("precio");
     $f->tipo("Tipo");
@@ -25,6 +34,8 @@ $crud->setGlobalFields(function($f){
     $f->descripcion("Descripcion");
 });
 $crud->canCreate()
+->setData(function(){
+})
     ->onUpload(function($file){
         
         //$_POST["imagen"] = $algo["imagen"]["name"]."-archivo.jpg";

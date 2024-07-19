@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="../assets/bootstrap.min.css" rel="stylesheet" >
+    <script type="module" src="../assets/index.m.js"></script>  
     <script>
         customElements.define("crud-input-image", class extends HTMLInputElement {
             constructor() {

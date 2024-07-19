@@ -84,14 +84,14 @@ function render_field(_CRUD_field $field,$row){
         case CRUD_types::JSON_SCHEMA:
                 echo "<textarea name='{$field->key}' $class is='textarea-json-schema'>{$field->default_value}</textarea>";
             break;
-        case CRUD_types::JSON:
+        case CRUD_types::JSON:            
                 if(!$field->json_config) throw new Exception("Para usar el tipo CRUD_types::JSON debe brindar un JSON_SCHEMA");
-                $test = $field->json_config;
+                $test = $field->json_config;                
                 if(is_string($field->json_config)){
                     $test = json_decode($field->json_config,true);                    
-                }
+                }                
                 if(!isset($test['$schema'])) throw new Exception("Para usar el tipo CRUD_types::JSON debe brindar un JSON_SCHEMA valido");
-                echo "<textarea name='{$field->key}' $class json-schema='".base64_encode(json_encode($test))."' is='textarea-json'>{$field->default_value}</textarea>";
+                echo "<textarea name='{$field->key}' $class base64-json-schema='".base64_encode(json_encode($test))."' is='textarea-json'>{$field->default_value}</textarea>";
             break;
                         
         case CRUD_types::SELECT:
